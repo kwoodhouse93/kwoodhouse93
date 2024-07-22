@@ -2,9 +2,9 @@
 
 🧑‍💻 I'm a professional software engineer who occasionally dabbles in side projects, from web apps to video games.
 
-🎢 I've co-founded a failing SaaS startup once - check out [Influent](https://influent.digital/).
+🎢 I co-founded a failing SaaS startup once - check out [Influent](https://influent.digital/).
 
-🧑‍💼 I work for [Odin](https://joinodin.com/) as a software engineer, where we're on a mission to drive progress, by creating a radically better way for people to connect, collaborate and invest together.
+🧑‍💼 I work for [Odin](https://joinodin.com/) as a software engineer, where we're on a mission to enable everyone to vote with their money on what the future looks like, and participate in creating it.
 
 🛠 My main languages are Go and Typescript, but I'm not religous about either - I prefer to focus on getting stuff done.
 
