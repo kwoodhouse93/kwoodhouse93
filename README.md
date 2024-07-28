@@ -2,17 +2,15 @@
 
 🧑‍💻 I'm a professional software engineer who occasionally dabbles in side projects, from web apps to video games.
 
-🎢 I co-founded a failing SaaS startup once - check out [Influent](https://influent.digital/).
-
 🧑‍💼 I work for [Odin](https://joinodin.com/) as a software engineer, where we're on a mission to enable everyone to vote with their money on what the future looks like, and participate in creating it.
 
 🛠 My main languages are Go and Typescript, but I'm not religous about either - I prefer to focus on getting stuff done.
 
-✨ My most interesting projects are probably https://trail-tracker.vercel.app or anything on https://kwoodhouse.itch.io/
+⭐ Author and maintainer of [supabase-community/gotrue-go](https://github.com/supabase-community/gotrue-go).
 
-📝 I like to write, too - mostly about my work, plus the odd foray into creative writing.
+✨ My most interesting projects are probably https://trail-tracker.vercel.app or anything on https://kwoodhouse.itch.io/.
 
-👀 To see more of my stuff, [check out my website](https://kwoodhouse.co.uk/), or [follow me on twitter](https://twitter.com/k_woodhouse93) for more direct access to my brain.
+🎢 I co-founded a failing SaaS startup once - check out [Influent](https://influent.digital/).
 
 ---
 
