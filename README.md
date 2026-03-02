@@ -4,8 +4,6 @@
 
 🧑‍💼 I work for [Odin](https://joinodin.com/) as a software engineer, where we're on a mission to enable everyone to vote with their money on what the future looks like, and participate in creating it.
 
-🛠 My main languages are Go and Typescript, but I'm not religous about either - I prefer to focus on getting stuff done.
-
 ⭐ Author and maintainer of [supabase-community/gotrue-go](https://github.com/supabase-community/gotrue-go).
 
 ✨ My most interesting projects are probably https://trail-tracker.vercel.app or anything on https://kwoodhouse.itch.io/.
