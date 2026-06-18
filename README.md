@@ -6,7 +6,7 @@
 
 ⭐ Author and maintainer of [supabase-community/gotrue-go](https://github.com/supabase-community/gotrue-go).
 
-✨ My most interesting projects are probably https://trail-tracker.vercel.app or anything on https://kwoodhouse.itch.io/.
+✨ My most interesting projects are probably [Trail Tracker](https://github.com/kwoodhouse93/trail-progress) or anything on https://kwoodhouse.itch.io/.
 
 🎢 I co-founded a failing SaaS startup once - check out [Influent](https://influent.digital/).
 
